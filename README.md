@@ -1,12 +1,12 @@
 # Índice
 *  [Sobre Datature](#Datature)
-*  [Definición del Producto](#definición-del-producto)
+*  [Definición del Producto](#DefinicióndelProducto)
 *  [Entrevistas](#Entrevistas)
-*  [Historias de Usuarios](#Historias-de-Usuarios)
-*  [Proceso de diseño](#Proceso-del-diseño-de-la-Interfaz-del-Usuario)
-*  [Prototipo de baja fidelidad](#Prototipo-de-baja-fidelidad)
-*  [Prototipo de alta fidelidad](#Prototipo-de-alta-fidelidad)
-*  [Test de usabilidad](#Test-de-usabilidad)
+*  [Historias de Usuarios](#HistoriasdeUsuarios)
+*  [Proceso de diseño](#[Procesodediseñoo)
+*  [Prototipo de baja fidelidad](#Prototipodebajafidelidad)
+*  [Prototipo de alta fidelidad](#Prototipodealtafidelidad)
+*  [Test de usabilidad](#Testdeusabilidad)
 
 # Datature
 ## Definición del Producto
