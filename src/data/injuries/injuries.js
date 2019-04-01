@@ -1,4 +1,4 @@
-const INJURIES = [{
+window.INJURIES = [{
       Total_Injured_Persons: null,
       Total_Injured_Persons_Air: null,
       Total_Injured_Persons_Bus_Occupants: null,

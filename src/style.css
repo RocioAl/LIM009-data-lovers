@@ -156,6 +156,7 @@
   border-radius: 30px;
   border: solid 2px #046b99;
   color: #046b99;
+  background-color: #ffffff;
 }
 .space{
   margin-right: 20px;
@@ -236,7 +237,6 @@ margin-left:0px;
   width: 90%;
 }
 .see_data_btn{
- background-color: #ffffff;
  width:30%;
 }
 .year_dropdown_box{
@@ -256,9 +256,6 @@ margin-left:0px;
   margin-bottom: 20px;
   margin-top: 30px;
   margin-right:30px;
-}
-.see_data_btn{
-  background-color: #ffffff;
 }
 }
 
