@@ -131,3 +131,4 @@ La planificación según los sprints fluyeron más de acuerdo al avance del prod
 - El botón de ordenar se encontraba en la parte inferior, el usuario mencionó que se colocara al lado izquierdo, para una mejor estructura.
 
 - Al inicio, no se tenía pensada la idea de colocar una ventana Modal, el usuario sugirió que al hacer click en los botones, muestre la información .
+![3](https://user-images.githubusercontent.com/47761211/63555629-48e63480-c507-11e9-9f3f-8c82eda2a3e1.png)
